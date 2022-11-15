@@ -1,14 +1,17 @@
 <img src="https://github.com/ValiaCantillo/Valia24/blob/main/BANNER_VALIA resized.png" />
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy Valia Cantillo Pileta</h1>
-<h3 align="center">Front-End Developer[HMTL5, CSS3, JavaScript, SCRUM]</h3>
+<h1 align="center">Hi 👋, I'm Valia</h1>
+<h3 align="center">Front-End Developer |HMTL5  | CSS3  | JavaScript  | SCRUM  | GitHub </h3>
 <h4 align="center">Talks about #css3, #html5, #frontend, #software, and #javascript</h4>
 
 <p>Self-directed, detail-oriented, and professional programmer with more than 4 years of experience in developing, analyzing, and implementing front-end web applications using HTML, CSS, and JavaScript language. Capable of learning new programming languages and technologies and completing projects within specified deadlines. Possess excellent communication, problem-solving, documentation, analytical, and decision-solving skills.</p>
 
-- 🌱 ESTOY ESTUDIANDO HTML5,CSS3,JavaScript
+- 🌱 I'm learning HTML5,CSS3,JavaScript
 
-- 📫 PUEDES CONTACTARME EN valiacantillo@gmail.com
+- 📫 Get in touch with me at:
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <p> valiacantillo@gmail.com 
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
