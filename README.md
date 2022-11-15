@@ -8,16 +8,11 @@
 
 - 🌱 I'm learning HTML5,CSS3,JavaScript
 
-- 📫 Get in touch with me at:
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/ValiaCantillo/blob/main/whatsapp.png" width="40" height="40"/> </a> 
-  <p> valiacantillo@gmail.com 
-  </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/valia-cantillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" /></a>
-<a href="https://codepen.io/valia24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="url-de-codepen" height="30" width="40" /></a>
-<a href="https://twitter.com/CantilloValia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="url-de-twitter" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/valia-cantillo" target="blank"><img align="center" src="https://github.com/ValiaCantillo/ValiaCantillo/blob/main/linkedin.png" alt="url-de-linkedin" height="30" width="30" /> ValiaCantillo </a> <br>
+  <a href=" " target="blank"><img align="center" src="https://github.com/ValiaCantillo/ValiaCantillo/blob/main/whatsapp.png" alt="url-de-linkedin" height="30" width="30" />(+1) 832 873 8604 </a> <br>
+<a href="https://twitter.com/CantilloValia" target="blank"><img align="center" src="https://github.com/ValiaCantillo/ValiaCantillo/blob/main/twitter.png" alt="url-de-twitter" height="30" width="30" /> @ValiaCantillo </a><br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
