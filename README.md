@@ -1,5 +1,4 @@
-<!--![Imagen decorativa de tu perfil](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DECORATIVA-DEL-PERFIL.jpg?raw=true)-->
-
+<img src="C:\Users\valia\iCloudDrive\STUDING\PROYECTOS\PORTAFOLIO" />
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Valia Cantillo Pileta</h1>
 <h3 align="center">Front-End Developer[HMTL5, CSS3, JavaScript, SCRUM]</h3>
