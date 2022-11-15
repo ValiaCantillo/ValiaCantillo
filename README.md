@@ -4,7 +4,7 @@
 <h3 align="center">Front-End Developer[HMTL5, CSS3, JavaScript, SCRUM]</h3>
 <h4 align="center">Talks about #css3, #html5, #frontend, #software, and #javascript</h4>
 
-
+<p>Self-directed, detail-oriented, and professional programmer with more than 4 years of experience in developing, analyzing, and implementing front-end web applications using HTML, CSS, and JavaScript language. Capable of learning new programming languages and technologies and completing projects within specified deadlines. Possess excellent communication, problem-solving, documentation, analytical, and decision-solving skills.</p>
 
 - 🌱 ESTOY ESTUDIANDO HTML5,CSS3,JavaScript
 
