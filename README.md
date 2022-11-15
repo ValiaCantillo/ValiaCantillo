@@ -1,4 +1,4 @@
-<img src="C:\Users\valia\iCloudDrive\STUDING\PROYECTOS\PORTAFOLIO\BANNER_VALIA.png" />
+<img src="[C:\Users\valia\iCloudDrive\STUDING\PROYECTOS\PORTAFOLIO\BANNER_VALIA.png](https://github.com/ValiaCantillo/Valia24/blob/main/BANNER_VALIA.png)" />
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Valia Cantillo Pileta</h1>
 <h3 align="center">Front-End Developer[HMTL5, CSS3, JavaScript, SCRUM]</h3>
