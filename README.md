@@ -9,7 +9,7 @@
 - 🌱 I'm learning HTML5,CSS3,JavaScript
 
 - 📫 Get in touch with me at:
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/ValiaCantillo/blob/main/whatsapp.png" width="40" height="40"/> </a> 
   <p> valiacantillo@gmail.com 
   </p>
 
