@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/valia-cantillo" target="blank"><img align="center" src="https://github.com/ValiaCantillo/ValiaCantillo/blob/main/linkedin.png" alt="url-de-linkedin" height="30" width="30" /> ValiaCantillo </a> <br>
-  <a href=" " target="blank"><img align="center" src="https://github.com/ValiaCantillo/ValiaCantillo/blob/main/whatsapp.png" alt="url-de-linkedin" height="30" width="30" />(+1) 832 873 8604 </a> <br>
 <a href="https://twitter.com/CantilloValia" target="blank"><img align="center" src="https://github.com/ValiaCantillo/ValiaCantillo/blob/main/twitter.png" alt="url-de-twitter" height="30" width="30" /> @ValiaCantillo </a><br>
 </p>
 
