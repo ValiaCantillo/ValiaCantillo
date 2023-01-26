@@ -1,4 +1,4 @@
-<img src="https://github.com/ValiaCantillo/Valia24/blob/main/BANNER_VALIA resized.png" />
+<img src="https://github.com/ValiaCantillo/Valia24/blob/main/technology-1283624.jpg" />
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi 👋, I'm Valia</h1>
 <h3 align="center">Front-End Developer </h3>
