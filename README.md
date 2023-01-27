@@ -17,10 +17,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/Valia24/blob/main/icons8-html-filetype-48.png" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/Valia24/blob/main/icons8-css-filetype-48.png" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/Valia24/blob/main/icons8-html-filetype-48.png" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/Valia24/blob/main/icons8-javascript-58.png" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/Valia24/blob/main/icons8-bootstrap-48.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/Valia24/blob/main/icons8-adobe-photoshop-48.png" alt="git" width="40" height="40"/> </a>  
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/Valia24/blob/main/icons8-bootstrap-48.png" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/ValiaCantillo/Valia24/blob/main/icons8-adobe-photoshop-48.png" alt="git" width="40" height="40"/> </a>  
 
  </p>
